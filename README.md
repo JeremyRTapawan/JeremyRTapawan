@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with Frontend and APIs<br>🌱 I’m currently learning HTML, CSS, React
+🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with Cyber Security and basic security and networking<br>
 
 
 # 💻 Tech Stack:
